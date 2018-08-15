@@ -201,7 +201,7 @@ h1 {
 	color: #E5F720;
 }
 
-.popup .content-1,
+.popup .content,
 .content-2 {
 	max-height: 30%;
 	overflow: auto;
